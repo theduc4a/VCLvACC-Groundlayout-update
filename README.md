@@ -13,4 +13,19 @@ GROUND LAYOUT AIRAC 2213
 | VVTX  | ✅ |
 | VVVH  | ✅ |
 | VVDH  | ✅ |
+| VVPB  | ✅|
+| VVDN  | ✅ |
+| VVCA  | ✅ |
+| VVPK  | ✅ |
+| VVPC  | ✅ |
+| VVBM  | ✅ |
+| VVTH  | ✅ |
+| VVDL  | ✅ |
+| VVCR  | ✅ |
+| VVCT  | ✅ |
+| VVRG  | ✅ |
+| VVCM  | ✅ |
+| VVPQ  | ✅ |
+| VVCS  | ✅ |
+| VVVT  | ❌ |
 
