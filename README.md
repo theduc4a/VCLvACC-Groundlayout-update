@@ -20,7 +20,7 @@ GROUND LAYOUT AIRAC 2213
 | VVPC  | ✅ |
 | VVBM  | ✅ |
 | VVTH  | ✅ |
-| VVDL  | ✅ |
+| VVDL  | ❌ |
 | VVCR  | ✅ |
 | VVCT  | ✅ |
 | VVRG  | ✅ |
