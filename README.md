@@ -16,7 +16,7 @@ GROUND LAYOUT AIRAC 2213
 | VVPB  | ✅|
 | VVDN  | ✅ |
 | VVCA  | ✅ |
-| VVPK  | ❌ |
+| VVPK  | ✅ |
 | VVPC  | ✅ |
 | VVBM  | ✅ |
 | VVTH  | ✅ |
