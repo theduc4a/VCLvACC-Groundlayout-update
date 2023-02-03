@@ -27,5 +27,6 @@ GROUND LAYOUT AIRAC 2213
 | VVCM  | ✅ |
 | VVPQ  | ✅ |
 | VVCS  | ✅ |
+| VVBH  | ✅ |
 | VVVT  | ❌ |
 
