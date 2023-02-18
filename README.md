@@ -1,7 +1,7 @@
 # VCLvACC-Groundlayout-update
 GND layout for VCLvACC
 
-GROUND LAYOUT AIRAC 2301
+GROUND LAYOUT AIRAC 2302
 
 | AIRPORT  | STATUS |
 | ---------| ------ |
