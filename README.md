@@ -29,4 +29,8 @@ GROUND LAYOUT AIRAC 2302
 | VVCS  | ✅ |
 | VVVT  | ✅ |
 | VVBH  | ✅ |
+| VV04  | ❌ |
+| VV03  | ❌ |
+| VVGL  | ❌ |
+| VVPK  | ❌ |
 
