@@ -5,7 +5,7 @@ GROUND LAYOUT AIRAC 2306
 
 | AIRPORT  | STATUS |
 | ---------| ------ |
-| VVTS  | ❌  |
+| VVTS  | ✅  |
 | VVNB  | ✅  |
 | VVCI  | ✅	|
 | VVVD  | ❌	 |
